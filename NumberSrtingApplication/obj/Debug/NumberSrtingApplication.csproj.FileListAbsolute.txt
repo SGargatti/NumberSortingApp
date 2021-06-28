@@ -1,0 +1,6 @@
+C:\Users\sowmya.gargatti\source\repos\NumberSrtingApplication\NumberSrtingApplication\bin\Debug\NumberSrtingApplication.exe.config
+C:\Users\sowmya.gargatti\source\repos\NumberSrtingApplication\NumberSrtingApplication\bin\Debug\NumberSrtingApplication.exe
+C:\Users\sowmya.gargatti\source\repos\NumberSrtingApplication\NumberSrtingApplication\bin\Debug\NumberSrtingApplication.pdb
+C:\Users\sowmya.gargatti\source\repos\NumberSrtingApplication\NumberSrtingApplication\obj\Debug\NumberSrtingApplication.csproj.CoreCompileInputs.cache
+C:\Users\sowmya.gargatti\source\repos\NumberSrtingApplication\NumberSrtingApplication\obj\Debug\NumberSrtingApplication.exe
+C:\Users\sowmya.gargatti\source\repos\NumberSrtingApplication\NumberSrtingApplication\obj\Debug\NumberSrtingApplication.pdb
