@@ -22,11 +22,11 @@ namespace NumberSortingApplication
 
 
             //Now fetch the primenumbers from the sorted list
-            int[] listOfPrimeNumbers = new int[sortedInput.Length];
-            listOfPrimeNumbers = numberSort.ListOfSortedPrimeNumbers(sortedInput);
-            foreach (var item in listOfPrimeNumbers)
+            int[] listOfNonPrimeNumbers = new int[sortedInput.Length];
+            listOfNonPrimeNumbers = numberSort.ListOfSortedPrimeNumbers(sortedInput);
+            foreach (var item in listOfNonPrimeNumbers)
             {
-                if(item!=0)
+                if(item!=1)
                 Console.WriteLine(item.ToString());
                 Console.ReadKey();
             }
