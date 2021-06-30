@@ -9,7 +9,7 @@ namespace NumberSortingApplication
         static void Main(string[] args)
         {
             // User input to type in the data
-            Console.WriteLine("Input a range of comma separated numbers to fetch primenumbers");
+            Console.WriteLine("Input a range of comma separated numbers to fetch remove primenumbers");
             //Receiving the user input as string          
             string inputArray= (Console.ReadLine());
             string[] userInputs = inputArray.Split(',');
